@@ -1,0 +1,14 @@
+*~
+*.tex
+*.aux
+*.out
+*.toc
+*.dvi
+*.fls
+*.fdb_latexmk
+*.log
+*.sh
+*.zsh
+.git
+Grenier
+gitlab-example
