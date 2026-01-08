@@ -37,6 +37,9 @@ index-html.org: ~/racine/public/eclats2vers/generic/matemat/index.org
 index.org: index-html.org
 	sed 's-\[\[file:\([^]]\+\).org\]-[[file:pdf/\1.pdf]-' index-html.org > index.org
 
+README.org: index.org
+	cp index.org README.org
+
 # sync {{{1
 
 dry-sync:
@@ -49,7 +52,7 @@ sync:
 
 # all, install {{{1
 
-all: sync index.org
+all: sync README.org
 	git add -A
 
 install: sync

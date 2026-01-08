@@ -1,0 +1,240 @@
+
+#+STARTUP: showall
+
+#+TITLE: Eclats de vers : Matemat
+#+AUTHOR: chimay
+#+EMAIL: or du val chez gé courriel commercial
+#+LANGUAGE: fr
+#+LINK_HOME: file:../index.html
+#+LINK_UP: file:../index.html
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style/defaut.css" />
+
+#+OPTIONS: H:6
+#+OPTIONS: toc:nil
+
+#+INCLUDE: "../include/navigan-1.org"
+
+#+TOC: headlines 1
+
+#+TAGS: noexport(n)
+
+* Introduction
+
+1. [[file:pdf/introduction.pdf][Introduction]]
+
+* Ensembles
+
+1. [[file:pdf/ensembles.pdf][Ensembles]]
+2. [[file:pdf/collections.pdf][Collections]]
+3. [[file:pdf/partitions.pdf][Partitions]]
+4. [[file:pdf/produit-cartesien.pdf][Produit cartésien]]
+5. [[file:pdf/relations.pdf][Relations]]
+6. [[file:pdf/fonctions.pdf][Fonctions]]
+7. [[file:pdf/equivalences.pdf][Équivalences]]
+8. [[file:pdf/ordres.pdf][Ordres]]
+9. [[file:pdf/ordres-stricts.pdf][Ordres stricts]]
+10. [[file:pdf/extrema.pdf][Extrema]]
+11. [[file:pdf/dualite.pdf][Dualité]]
+12. [[file:pdf/fonctions-et-ordres.pdf][Fonctions et ordres]]
+13. [[file:pdf/bijections.pdf][Bijections]]
+14. [[file:pdf/ordre-inclusif.pdf][Ordre inclusif]]
+15. [[file:pdf/treillis.pdf][Treillis]]
+16. [[file:pdf/tribus.pdf][Tribus]]
+17. [[file:pdf/topologies.pdf][Topologies]]
+
+* Algèbre
+
+1. [[file:pdf/operations.pdf][Opérations]]
+2. [[file:pdf/structures-algebriques.pdf][Structures algèbriques]]
+
+* Nombres
+
+1. [[file:pdf/naturels.pdf][Naturels]]
+2. [[file:pdf/entiers.pdf][Entiers]]
+3. [[file:pdf/rationnels.pdf][Rationnels]]
+4. [[file:pdf/booleens.pdf][Booleens]]
+
+* Fonctions et nombres
+
+1. [[file:pdf/fonctions-et-operations.pdf][Fonctions et opérations]]
+2. [[file:pdf/fonctions-indicatrices.pdf][Fonctions indicatrices]]
+3. [[file:pdf/parite.pdf][Parité]]
+3. [[file:pdf/periodicite.pdf][Périodicité]]
+4. [[file:pdf/linearite.pdf][Linéarité]]
+
+* Métrique
+
+1. [[file:pdf/distance.pdf][Distance]]
+2. [[file:pdf/limites.pdf][Limites]]
+3. [[file:pdf/limites-doubles.pdf][Limites doubles]]
+4. [[file:pdf/suites.pdf][Suites]]
+5. [[file:pdf/continuite.pdf][Continuité]]
+
+* Réels
+
+1. [[file:pdf/suites-de-rationnels.pdf][Suites de rationnels]]
+2. [[file:pdf/probleme-de-la-racine.pdf][Problème de la racine]]
+3. [[file:pdf/reels.pdf][Réels]]
+4. [[file:pdf/extrema-reels.pdf][Extréma réels]]
+5. [[file:pdf/intervalles-reels.pdf][Intervalles de réels]]
+6. [[file:pdf/limites-reelles.pdf][Limites réelles]]
+7. [[file:pdf/suites-reelles.pdf][Suites réelles]]
+8. [[file:pdf/continuite-reelle.pdf][Continuité réelle]]
+
+* Complexes
+
+1. [[file:pdf/complexes.pdf][Complexes]]
+
+* Sommes et produits
+
+1. [[file:pdf/sommes-abstraites.pdf][Sommes abstraites]]
+2. [[file:pdf/sommes-indicees.pdf][Sommes indicées]]
+3. [[file:pdf/produits.pdf][Produits]]
+4. [[file:pdf/progressions.pdf][Progressions]]
+5. [[file:pdf/differences.pdf][Différences]]
+6. [[file:pdf/sommes-reelles.pdf][Sommes réelles]]
+
+* Polynômes
+
+1. [[file:pdf/polynomes.pdf][Polynômes]]
+2. [[file:pdf/binomes.pdf][Binômes]]
+3. [[file:pdf/polynomes-du-second-degre.pdf][Polynômes du second degré]]
+
+* Géométrie plane
+
+1. [[file:pdf/geometrie-plane.pdf][Géométrie plane]]
+2. [[file:pdf/angles.pdf][Angles]]
+3. [[file:pdf/transformations-geometriques-planes.pdf][Transformations géometriques planes]]
+4. [[file:pdf/triangles.pdf][Triangles]]
+5. [[file:pdf/quadrilateres.pdf][Quadrilatères]]
+7. [[file:pdf/aire-dans-le-plan.pdf][Aire dans le plan]]
+6. [[file:pdf/proportions-geometriques.pdf][Proportions géométriques]]
+8. [[file:pdf/trigonometrie.pdf][Trigonométrie]]
+9. [[file:pdf/trigonometrie-sommes.pdf][Trigonométrie : sommes]]
+10. [[file:pdf/trigonometrie-valeurs-particulieres.pdf][Trigonométrie : valeurs particulières]]
+11. [[file:pdf/polygones.pdf][Polygones]]
+12. [[file:pdf/trigonometrie-des-polygones.pdf][Trigonométrie des polygones]]
+13. [[file:pdf/constructions-geometriques.pdf][Constructions géometriques]]
+14. [[file:pdf/constructions-de-polygones.pdf][Constructions de polygones]]
+15. [[file:pdf/constructions-de-mandalas.pdf][Constructions de mandalas]]
+16. [[file:pdf/coordonnees-dans-le-plan.pdf][Coordonnées dans le plan]]
+17. [[file:pdf/vecteurs-dans-le-plan.pdf][Vecteurs dans le plan]]
+
+* Espaces vectoriels
+
+1. [[file:pdf/dimension-n.pdf][Dimension $n$]]
+2. [[file:pdf/vecteurs-de-dimension-finie.pdf][Vecteurs de dimension finie]]
+3. [[file:pdf/matrices.pdf][Matrices]]
+4. [[file:pdf/operations-sur-les-matrices.pdf][Opérations sur les matrices]]
+5. [[file:pdf/vecteurs-geometriques.pdf][Vecteurs géométriques]]
+6. [[file:pdf/espaces-vectoriels.pdf][Espaces vectoriels]]
+7. [[file:pdf/normes.pdf][Normes]]
+8. [[file:pdf/espaces-de-banach.pdf][Espaces de Banach]]
+9. [[file:pdf/espace-vectoriel-des-fonctions-continues.pdf][Espace vectoriel des fonctions continues]]
+10. [[file:pdf/applications-lineaires.pdf][Applications lineaires]]
+11. [[file:pdf/formes-lineaires.pdf][Formes linéaires]]
+12. [[file:pdf/produit-scalaire.pdf][Produit scalaire]]
+13. [[file:pdf/norme-derivee-du-produit-scalaire.pdf][Norme dérivée du produit scalaire]]
+14. [[file:pdf/applications-adjointes.pdf][Applications adjointes]]
+15. [[file:pdf/tenseurs.pdf][Tenseurs]]
+16. [[file:pdf/produit-exterieur.pdf][Produit extérieur]]
+17. [[file:pdf/matrices-elementaires.pdf][Matrices élémentaires]]
+18. [[file:pdf/systemes-lineaires.pdf][Systèmes linéaires]]
+19. [[file:pdf/matrices-unitaires.pdf][Matrices unitaires]]
+20. [[file:pdf/polynomes-matriciels.pdf][Polynômes matriciels]]
+
+* Intégrales
+
+1. [[file:pdf/mesures.pdf][Mesures]]
+2. [[file:pdf/essentialite.pdf][Essentialité]]
+3. [[file:pdf/extrema-essentiels.pdf][Extrema essentiels]]
+4. [[file:pdf/fonctions-etagees.pdf][Fonctions étagées]]
+5. [[file:pdf/decomposition-en-fonctions-positives.pdf][Décomposition en fonctions positives]]
+6. [[file:pdf/integrales.pdf][Integrales]]
+7. [[file:pdf/integrales-et-mesures.pdf][Integrales et mesures]]
+8. [[file:pdf/integrales-unidimensionnelles.pdf][Integrales unidimensionnelles]]
+9. [[file:pdf/espaces-fonctionnels.pdf][Espaces fonctionnels]]
+10. [[file:pdf/convergence-et-integration.pdf][Convergence et intégration]]
+11. [[file:pdf/additivite-generalisee.pdf][Additivité généralisée]]
+12. [[file:pdf/sommes-et-integrales.pdf][Sommes et intégrales]]
+
+* Différentielles
+
+1. [[file:pdf/derivees-ordinaires.pdf][Dérivées ordinaires]]
+1. [[file:pdf/proprietes-des-derivees-ordinaires.pdf][Propriétés des dérivées ordinaires]]
+2. [[file:pdf/differentielles.pdf][Différentielles]]
+3. [[file:pdf/derivees-partielles.pdf][Dérivées partielles]]
+3. [[file:pdf/proprietes-des-derivees-partielles.pdf][Propriétés des dérivées partielles]]
+4. [[file:pdf/derivees-de-polynomes.pdf][Dérivées de polynômes]]
+5. [[file:pdf/derivees-de-puissances.pdf][Dérivées de puissances]]
+6. [[file:pdf/derivees-de-fonctions-trigonometriques.pdf][Dérivées de fonctions trigonométriques]]
+7. [[file:pdf/derivees-de-matrices.pdf][Dérivées de matrices]]
+8. [[file:pdf/resolution-d-equation.pdf][Résolution d’équations]]
+
+* Géométrie
+
+1. [[file:pdf/geometrie-parametrique.pdf][Géométrie paramétrique]]
+2. [[file:pdf/geometrie-spherique.pdf][Géométrie sphérique]]
+
+* Analyse
+
+1. [[file:pdf/theoreme-de-rolle.pdf][Théoreme de Rolle]]
+2. [[file:pdf/theoreme-fondamental.pdf][Théoreme fondamental]]
+3. [[file:pdf/developpements-de-taylor.pdf][Développements de Taylor]]
+4. [[file:pdf/developpements-d-hadamard.pdf][Développements d’Hadamard]]
+5. [[file:pdf/symetrie.pdf][Symétrie]]
+6. [[file:pdf/distributions.pdf][Distributions]]
+7. [[file:pdf/formes-differentielles.pdf][Formes différentielles]]
+8. [[file:pdf/geometrie-differentielle.pdf][Géometrie différentielle]]
+9. [[file:pdf/espace-vectoriel-des-polynomes.pdf][Espace vectoriel des polynômes]]
+
+* Optimisation
+
+1. [[file:pdf/optimisation-libre.pdf][Optimisation libre]]
+2. [[file:pdf/extrema-de-polynomes-du-second-degre.pdf][Extrema de polynômes du second degré]]
+3. [[file:pdf/moindres-carres.pdf][Moindres carrés]]
+4. [[file:pdf/projections.pdf][Projections]]
+5. [[file:pdf/algorithmes-d-optimisation-libre.pdf][Algorithmes d’optimisation libre]]
+6. [[file:pdf/solveurs-iteratifs.pdf][Solveurs itératifs]]
+7. [[file:pdf/optimisation-sous-contrainte.pdf][Optimisation sous contrainte]]
+8. [[file:pdf/valeurs-propres.pdf][Valeurs propres]]
+9. [[file:pdf/valeurs-singulieres.pdf][Valeurs singulières]]
+10. [[file:pdf/espaces-de-hilbert.pdf][Espaces de Hilbert]]
+11. [[file:pdf/theorie-spectrale.pdf][Théorie spectrale]]
+12. [[file:pdf/calcul-variationnel.pdf][Calcul variationnel]]
+13. [[file:pdf/algorithmes-d-optimisation-contrainte.pdf][Algorithmes d’optimisation contrainte]]
+14. [[file:pdf/reseaux-de-neurones.pdf][Réseaux de neurones]]
+
+* Equations différentielles
+
+1. [[file:pdf/equations-differentielles-ordinaires.pdf][Équations différentielles ordinaires]]
+2. [[file:pdf/exponentielle.pdf][Exponentielle]]
+3. [[file:pdf/logarithme.pdf][Logarithme]]
+4. [[file:pdf/fonctions-hyperboliques.pdf][Fonctions hyperboliques]]
+5. [[file:pdf/exponentielle-matricielle.pdf][Exponentielle matricielle]]
+6. [[file:pdf/fonctions-trigonometriques.pdf][Fonctions trigonométriques]]
+8. [[file:pdf/equations-aux-derivees-partielles.pdf][Équations aux dérivées partitielles]]
+9. [[file:pdf/algorithmes-de-resolution-d-edo.pdf][Algorithmes de résolution d’EDO]]
+10. [[file:pdf/algorithmes-de-resolution-d-edp.pdf][Algorithmes de résolution d’EDP]]
+
+* Analyse complexe
+
+1. [[file:pdf/exponentielle-complexe.pdf][Exponentielle complexe]]
+2. [[file:pdf/derivation-et-integration-dans-le-plan-complexe.pdf][Dérivation et intégration dans le plan complexe]]
+3. [[file:pdf/polynomes-et-exponentielles.pdf][Polynômes et exponentielles]]
+4. [[file:pdf/analyse-de-fourier.pdf][Analyse de Fourier]]
+5. [[file:pdf/ondelettes.pdf][Ondelettes]]
+
+* Probabilités
+
+1. [[file:pdf/probabilites.pdf][Probabilités]]
+2. [[file:pdf/statistiques.pdf][Statistiques]]
+3. [[file:pdf/calcul-stochastique.pdf][Calcul stochastique]]
+
+* Autres formats
+
+Le [[file:pdf][répertoire pdf]] contient les versions en pdf de ces
+chapitres.
+
+Il existe également
+[[file:pdf/matemat.pdf][une version monolithique plus ancienne en format pdf]].
