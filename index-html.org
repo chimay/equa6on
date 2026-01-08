@@ -1,0 +1,240 @@
+
+#+STARTUP: showall
+
+#+TITLE: Eclats de vers : Matemat
+#+AUTHOR: chimay
+#+EMAIL: or du val chez gé courriel commercial
+#+LANGUAGE: fr
+#+LINK_HOME: file:../index.html
+#+LINK_UP: file:../index.html
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style/defaut.css" />
+
+#+OPTIONS: H:6
+#+OPTIONS: toc:nil
+
+#+INCLUDE: "../include/navigan-1.org"
+
+#+TOC: headlines 1
+
+#+TAGS: noexport(n)
+
+* Introduction
+
+1. [[file:introduction.org][Introduction]]
+
+* Ensembles
+
+1. [[file:ensembles.org][Ensembles]]
+2. [[file:collections.org][Collections]]
+3. [[file:partitions.org][Partitions]]
+4. [[file:produit-cartesien.org][Produit cartésien]]
+5. [[file:relations.org][Relations]]
+6. [[file:fonctions.org][Fonctions]]
+7. [[file:equivalences.org][Équivalences]]
+8. [[file:ordres.org][Ordres]]
+9. [[file:ordres-stricts.org][Ordres stricts]]
+10. [[file:extrema.org][Extrema]]
+11. [[file:dualite.org][Dualité]]
+12. [[file:fonctions-et-ordres.org][Fonctions et ordres]]
+13. [[file:bijections.org][Bijections]]
+14. [[file:ordre-inclusif.org][Ordre inclusif]]
+15. [[file:treillis.org][Treillis]]
+16. [[file:tribus.org][Tribus]]
+17. [[file:topologies.org][Topologies]]
+
+* Algèbre
+
+1. [[file:operations.org][Opérations]]
+2. [[file:structures-algebriques.org][Structures algèbriques]]
+
+* Nombres
+
+1. [[file:naturels.org][Naturels]]
+2. [[file:entiers.org][Entiers]]
+3. [[file:rationnels.org][Rationnels]]
+4. [[file:booleens.org][Booleens]]
+
+* Fonctions et nombres
+
+1. [[file:fonctions-et-operations.org][Fonctions et opérations]]
+2. [[file:fonctions-indicatrices.org][Fonctions indicatrices]]
+3. [[file:parite.org][Parité]]
+3. [[file:periodicite.org][Périodicité]]
+4. [[file:linearite.org][Linéarité]]
+
+* Métrique
+
+1. [[file:distance.org][Distance]]
+2. [[file:limites.org][Limites]]
+3. [[file:limites-doubles.org][Limites doubles]]
+4. [[file:suites.org][Suites]]
+5. [[file:continuite.org][Continuité]]
+
+* Réels
+
+1. [[file:suites-de-rationnels.org][Suites de rationnels]]
+2. [[file:probleme-de-la-racine.org][Problème de la racine]]
+3. [[file:reels.org][Réels]]
+4. [[file:extrema-reels.org][Extréma réels]]
+5. [[file:intervalles-reels.org][Intervalles de réels]]
+6. [[file:limites-reelles.org][Limites réelles]]
+7. [[file:suites-reelles.org][Suites réelles]]
+8. [[file:continuite-reelle.org][Continuité réelle]]
+
+* Complexes
+
+1. [[file:complexes.org][Complexes]]
+
+* Sommes et produits
+
+1. [[file:sommes-abstraites.org][Sommes abstraites]]
+2. [[file:sommes-indicees.org][Sommes indicées]]
+3. [[file:produits.org][Produits]]
+4. [[file:progressions.org][Progressions]]
+5. [[file:differences.org][Différences]]
+6. [[file:sommes-reelles.org][Sommes réelles]]
+
+* Polynômes
+
+1. [[file:polynomes.org][Polynômes]]
+2. [[file:binomes.org][Binômes]]
+3. [[file:polynomes-du-second-degre.org][Polynômes du second degré]]
+
+* Géométrie plane
+
+1. [[file:geometrie-plane.org][Géométrie plane]]
+2. [[file:angles.org][Angles]]
+3. [[file:transformations-geometriques-planes.org][Transformations géometriques planes]]
+4. [[file:triangles.org][Triangles]]
+5. [[file:quadrilateres.org][Quadrilatères]]
+7. [[file:aire-dans-le-plan.org][Aire dans le plan]]
+6. [[file:proportions-geometriques.org][Proportions géométriques]]
+8. [[file:trigonometrie.org][Trigonométrie]]
+9. [[file:trigonometrie-sommes.org][Trigonométrie : sommes]]
+10. [[file:trigonometrie-valeurs-particulieres.org][Trigonométrie : valeurs particulières]]
+11. [[file:polygones.org][Polygones]]
+12. [[file:trigonometrie-des-polygones.org][Trigonométrie des polygones]]
+13. [[file:constructions-geometriques.org][Constructions géometriques]]
+14. [[file:constructions-de-polygones.org][Constructions de polygones]]
+15. [[file:constructions-de-mandalas.org][Constructions de mandalas]]
+16. [[file:coordonnees-dans-le-plan.org][Coordonnées dans le plan]]
+17. [[file:vecteurs-dans-le-plan.org][Vecteurs dans le plan]]
+
+* Espaces vectoriels
+
+1. [[file:dimension-n.org][Dimension $n$]]
+2. [[file:vecteurs-de-dimension-finie.org][Vecteurs de dimension finie]]
+3. [[file:matrices.org][Matrices]]
+4. [[file:operations-sur-les-matrices.org][Opérations sur les matrices]]
+5. [[file:vecteurs-geometriques.org][Vecteurs géométriques]]
+6. [[file:espaces-vectoriels.org][Espaces vectoriels]]
+7. [[file:normes.org][Normes]]
+8. [[file:espaces-de-banach.org][Espaces de Banach]]
+9. [[file:espace-vectoriel-des-fonctions-continues.org][Espace vectoriel des fonctions continues]]
+10. [[file:applications-lineaires.org][Applications lineaires]]
+11. [[file:formes-lineaires.org][Formes linéaires]]
+12. [[file:produit-scalaire.org][Produit scalaire]]
+13. [[file:norme-derivee-du-produit-scalaire.org][Norme dérivée du produit scalaire]]
+14. [[file:applications-adjointes.org][Applications adjointes]]
+15. [[file:tenseurs.org][Tenseurs]]
+16. [[file:produit-exterieur.org][Produit extérieur]]
+17. [[file:matrices-elementaires.org][Matrices élémentaires]]
+18. [[file:systemes-lineaires.org][Systèmes linéaires]]
+19. [[file:matrices-unitaires.org][Matrices unitaires]]
+20. [[file:polynomes-matriciels.org][Polynômes matriciels]]
+
+* Intégrales
+
+1. [[file:mesures.org][Mesures]]
+2. [[file:essentialite.org][Essentialité]]
+3. [[file:extrema-essentiels.org][Extrema essentiels]]
+4. [[file:fonctions-etagees.org][Fonctions étagées]]
+5. [[file:decomposition-en-fonctions-positives.org][Décomposition en fonctions positives]]
+6. [[file:integrales.org][Integrales]]
+7. [[file:integrales-et-mesures.org][Integrales et mesures]]
+8. [[file:integrales-unidimensionnelles.org][Integrales unidimensionnelles]]
+9. [[file:espaces-fonctionnels.org][Espaces fonctionnels]]
+10. [[file:convergence-et-integration.org][Convergence et intégration]]
+11. [[file:additivite-generalisee.org][Additivité généralisée]]
+12. [[file:sommes-et-integrales.org][Sommes et intégrales]]
+
+* Différentielles
+
+1. [[file:derivees-ordinaires.org][Dérivées ordinaires]]
+1. [[file:proprietes-des-derivees-ordinaires.org][Propriétés des dérivées ordinaires]]
+2. [[file:differentielles.org][Différentielles]]
+3. [[file:derivees-partielles.org][Dérivées partielles]]
+3. [[file:proprietes-des-derivees-partielles.org][Propriétés des dérivées partielles]]
+4. [[file:derivees-de-polynomes.org][Dérivées de polynômes]]
+5. [[file:derivees-de-puissances.org][Dérivées de puissances]]
+6. [[file:derivees-de-fonctions-trigonometriques.org][Dérivées de fonctions trigonométriques]]
+7. [[file:derivees-de-matrices.org][Dérivées de matrices]]
+8. [[file:resolution-d-equation.org][Résolution d’équations]]
+
+* Géométrie
+
+1. [[file:geometrie-parametrique.org][Géométrie paramétrique]]
+2. [[file:geometrie-spherique.org][Géométrie sphérique]]
+
+* Analyse
+
+1. [[file:theoreme-de-rolle.org][Théoreme de Rolle]]
+2. [[file:theoreme-fondamental.org][Théoreme fondamental]]
+3. [[file:developpements-de-taylor.org][Développements de Taylor]]
+4. [[file:developpements-d-hadamard.org][Développements d’Hadamard]]
+5. [[file:symetrie.org][Symétrie]]
+6. [[file:distributions.org][Distributions]]
+7. [[file:formes-differentielles.org][Formes différentielles]]
+8. [[file:geometrie-differentielle.org][Géometrie différentielle]]
+9. [[file:espace-vectoriel-des-polynomes.org][Espace vectoriel des polynômes]]
+
+* Optimisation
+
+1. [[file:optimisation-libre.org][Optimisation libre]]
+2. [[file:extrema-de-polynomes-du-second-degre.org][Extrema de polynômes du second degré]]
+3. [[file:moindres-carres.org][Moindres carrés]]
+4. [[file:projections.org][Projections]]
+5. [[file:algorithmes-d-optimisation-libre.org][Algorithmes d’optimisation libre]]
+6. [[file:solveurs-iteratifs.org][Solveurs itératifs]]
+7. [[file:optimisation-sous-contrainte.org][Optimisation sous contrainte]]
+8. [[file:valeurs-propres.org][Valeurs propres]]
+9. [[file:valeurs-singulieres.org][Valeurs singulières]]
+10. [[file:espaces-de-hilbert.org][Espaces de Hilbert]]
+11. [[file:theorie-spectrale.org][Théorie spectrale]]
+12. [[file:calcul-variationnel.org][Calcul variationnel]]
+13. [[file:algorithmes-d-optimisation-contrainte.org][Algorithmes d’optimisation contrainte]]
+14. [[file:reseaux-de-neurones.org][Réseaux de neurones]]
+
+* Equations différentielles
+
+1. [[file:equations-differentielles-ordinaires.org][Équations différentielles ordinaires]]
+2. [[file:exponentielle.org][Exponentielle]]
+3. [[file:logarithme.org][Logarithme]]
+4. [[file:fonctions-hyperboliques.org][Fonctions hyperboliques]]
+5. [[file:exponentielle-matricielle.org][Exponentielle matricielle]]
+6. [[file:fonctions-trigonometriques.org][Fonctions trigonométriques]]
+8. [[file:equations-aux-derivees-partielles.org][Équations aux dérivées partitielles]]
+9. [[file:algorithmes-de-resolution-d-edo.org][Algorithmes de résolution d’EDO]]
+10. [[file:algorithmes-de-resolution-d-edp.org][Algorithmes de résolution d’EDP]]
+
+* Analyse complexe
+
+1. [[file:exponentielle-complexe.org][Exponentielle complexe]]
+2. [[file:derivation-et-integration-dans-le-plan-complexe.org][Dérivation et intégration dans le plan complexe]]
+3. [[file:polynomes-et-exponentielles.org][Polynômes et exponentielles]]
+4. [[file:analyse-de-fourier.org][Analyse de Fourier]]
+5. [[file:ondelettes.org][Ondelettes]]
+
+* Probabilités
+
+1. [[file:probabilites.org][Probabilités]]
+2. [[file:statistiques.org][Statistiques]]
+3. [[file:calcul-stochastique.org][Calcul stochastique]]
+
+* Autres formats
+
+Le [[file:pdf][répertoire pdf]] contient les versions en pdf de ces
+chapitres.
+
+Il existe également
+[[file:pdf/matemat.pdf][une version monolithique plus ancienne en format pdf]].

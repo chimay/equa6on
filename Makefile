@@ -28,6 +28,15 @@ $(DEBUG_SUBDIRS):
 debug: $(DEBUG_SUBDIRS)
 	@echo $(ALL_TEX_FILES)
 
+# index {{{1
+
+index-html.org: ~/racine/public/eclats2vers/generic/matemat/index.org
+	$(RSYNC) ~/racine/public/eclats2vers/generic/matemat/index.org index-html.org
+	@$(ECHO)
+
+index.org: index-html.org
+	sed 's-\[\[file:\([^]]\+\).org\]-[[file:pdf/\1.pdf]-' index-html.org > index.org
+
 # sync {{{1
 
 dry-sync:
@@ -40,7 +49,7 @@ sync:
 
 # all, install {{{1
 
-all: sync
+all: sync index.org
 	git add -A
 
 install: sync
